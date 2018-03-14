@@ -5,11 +5,17 @@
 
 package dam_ed04_actividad;
 
-
+/**
+ * Clase cuenta sirve para
+ * @author Marta
+ * @version 1.2.1
+ * 
+ */
 public class cuenta1 {
 
     /**
      * @return the cuenta
+     *
      */
     public String getCuenta() {
         return cuenta;
@@ -53,11 +59,19 @@ public class cuenta1 {
         cuenta=cue;
         saldo=sal;
     }
+    /**
+     * Este método asigna el nombre
+     * @param nom 
+     */
 
     public void asignarNombre(String nom)
     {
         setNombre(nom);
     }
+    /**
+     * Este método devuelve el nombre cuando lo socilita
+     * @return 
+     */
 
     public String obtenerNombre()
     {
