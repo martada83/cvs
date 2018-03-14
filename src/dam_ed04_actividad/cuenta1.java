@@ -8,7 +8,7 @@ package dam_ed04_actividad;
 /**
  * Clase cuenta sirve para
  * @author Marta
- * @version 1.2.1
+ * @version 3
  * 
  */
 public class cuenta1 {
